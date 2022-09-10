@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=jasonlius&show_icons=true&count_private=true&icon_color=FB7299&title_color=FB7299" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jasonlius&show_icons=true&theme=prussian&show_icons=true" />
   
 # Jason,Liu
 
@@ -30,7 +30,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000)
 
 ## 📫 Get in touch
-[![E-Mail](https://img.shields.io/badge/-ohayou@shisheng.icu-168de2?style=flat-square&logo=mail.ru&logoColor=white&labelColor=168de2)](mailto:jasonliu258@163.com)
+[![E-Mail](https://img.shields.io/badge/%40-jasonliu258%40163.com-blue)](mailto:jasonliu258@163.com)
 
 ## 💾 Working environment
 ![Windows 11](https://img.shields.io/badge/Windows%2011%20Pro-00adef?style=flat-square&logo=windows&logoColor=ffffff)
