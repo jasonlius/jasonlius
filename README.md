@@ -43,7 +43,7 @@
 
 ## 📱 Devices in use
 ![Redmi  K40](https://img.shields.io/badge/Redmi%20K40%20%20-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
-![Xiaomi Mi 3  ](https://img.shields.io/badge/Xiaomi%20Mi%2010%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![Xiaomi Mi 3  ](https://img.shields.io/badge/Xiaomi%20Mi%203%20联通版-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![SONY Xperia XZ Premium](https://img.shields.io/badge/Xperia%20XZ%20Premium-000000?style=flat-square&logo=sony&logoColor=ffffff)
 ![Google Pixel 2](https://img.shields.io/badge/Google%20Pixel%202-4285f4?style=flat-square&logo=google&logoColor=ffffff)
 ![Google Pixel 3](https://img.shields.io/badge/Google%20Pixel%203-4285f4?style=flat-square&logo=google&logoColor=ffffff)
