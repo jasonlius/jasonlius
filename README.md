@@ -42,7 +42,7 @@
 ![Wear OS](https://img.shields.io/badge/Wear%20OS%20-4285f4?style=flat-square&logo=wear%20os&logoColor=ffffff)
 
 ## 📱 Devices in use
-![Redmi  K40](https://img.shields.io/badge/Redmi%K40%20Mi%202-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
+![Redmi  K40](https://img.shields.io/badge/Xiaomi%20Mi%2010%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Mi 3  ](https://img.shields.io/badge/Xiaomi%20Mi%2010%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![SONY Xperia XZ Premium](https://img.shields.io/badge/Xperia%20XZ%20Premium-000000?style=flat-square&logo=sony&logoColor=ffffff)
 ![Google Pixel 2](https://img.shields.io/badge/Google%20Pixel%202-4285f4?style=flat-square&logo=google&logoColor=ffffff)
